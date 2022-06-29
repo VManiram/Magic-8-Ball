@@ -1,2 +1,2 @@
 # Projects
-Collection of projects both completed and work in progress
+Creating a Magic-8-ball with a combination of html, css, and javascript
